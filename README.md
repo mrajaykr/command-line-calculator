@@ -25,7 +25,7 @@ python calculator.py
 ## Sample Output
 
 ```text
-===== CALCULATOR =====
+===== COMMAND-LINE CALCULATOR =====
 1. Addition (+)
 2. Subtraction (-)
 3. Multiplication (*)
